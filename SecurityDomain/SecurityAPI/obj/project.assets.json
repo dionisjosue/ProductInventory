@@ -1191,7 +1191,6 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.15",
           "Newtonsoft.Json": "13.0.3",
           "SecurityDomain": "1.0.0",
-          "SharedItems": "1.0.0",
           "System.IdentityModel.Tokens.Jwt": "8.8.0"
         },
         "compile": {
@@ -3198,8 +3197,8 @@
     },
     "SharedItems/1.0.0": {
       "type": "project",
-      "path": "../../Events/SharedItems/SharedItems.csproj",
-      "msbuildProject": "../../Events/SharedItems/SharedItems.csproj"
+      "path": "../../SharedSolution/SharedItems/SharedItems.csproj",
+      "msbuildProject": "../../SharedSolution/SharedItems/SharedItems.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -3208,7 +3207,6 @@
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.15",
       "SecurityDomain >= 1.0.0",
       "SecurityInfrastructure >= 1.0.0",
-      "SharedItems >= 1.0.0",
       "Swashbuckle.AspNetCore >= 8.1.0"
     ]
   },
@@ -3218,11 +3216,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dionisvargasabreu/Projects/BanreservaSolution/SecurityDomain/SecurityAPI/SecurityAPI.csproj",
+      "projectUniqueName": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SecurityDomain/SecurityAPI/SecurityAPI.csproj",
       "projectName": "SecurityAPI",
-      "projectPath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/SecurityDomain/SecurityAPI/SecurityAPI.csproj",
+      "projectPath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SecurityDomain/SecurityAPI/SecurityAPI.csproj",
       "packagesPath": "/Users/dionisvargasabreu/.nuget/packages/",
-      "outputPath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/SecurityDomain/SecurityAPI/obj/",
+      "outputPath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SecurityDomain/SecurityAPI/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dionisvargasabreu/.nuget/NuGet/NuGet.Config"
@@ -3237,14 +3235,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/dionisvargasabreu/Projects/BanreservaSolution/Events/SharedItems/SharedItems.csproj": {
-              "projectPath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/Events/SharedItems/SharedItems.csproj"
+            "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SecurityDomain/SecurityDomain/SecurityDomain.csproj": {
+              "projectPath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SecurityDomain/SecurityDomain/SecurityDomain.csproj"
             },
-            "/Users/dionisvargasabreu/Projects/BanreservaSolution/SecurityDomain/SecurityDomain/SecurityDomain.csproj": {
-              "projectPath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/SecurityDomain/SecurityDomain/SecurityDomain.csproj"
-            },
-            "/Users/dionisvargasabreu/Projects/BanreservaSolution/SecurityDomain/SecurityInfrastructure/SecurityInfrastructure.csproj": {
-              "projectPath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/SecurityDomain/SecurityInfrastructure/SecurityInfrastructure.csproj"
+            "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SecurityDomain/SecurityInfrastructure/SecurityInfrastructure.csproj": {
+              "projectPath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SecurityDomain/SecurityInfrastructure/SecurityInfrastructure.csproj"
             }
           }
         }

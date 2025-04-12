@@ -944,6 +944,7 @@
       },
       "DomainLayer/1.0.0": {
         "dependencies": {
+          "AutoMapper": "14.0.0",
           "SharedItems": "1.0.0"
         },
         "runtime": {

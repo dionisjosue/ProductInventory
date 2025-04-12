@@ -12,7 +12,6 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.15",
           "SecurityDomain": "1.0.0",
           "SecurityInfrastructure": "1.0.0",
-          "SharedItems": "1.0.0",
           "Swashbuckle.AspNetCore": "8.1.0"
         },
         "runtime": {
@@ -700,7 +699,6 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.15",
           "Newtonsoft.Json": "13.0.3",
           "SecurityDomain": "1.0.0",
-          "SharedItems": "1.0.0",
           "System.IdentityModel.Tokens.Jwt": "8.8.0"
         },
         "runtime": {

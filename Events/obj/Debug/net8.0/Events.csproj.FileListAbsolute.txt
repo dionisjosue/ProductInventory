@@ -1,5 +1,0 @@
-/Users/dionisvargasabreu/Projects/BanreservaSolution/Events/obj/Debug/net8.0/Events.csproj.AssemblyReference.cache
-/Users/dionisvargasabreu/Projects/BanreservaSolution/Events/obj/Debug/net8.0/Events.GeneratedMSBuildEditorConfig.editorconfig
-/Users/dionisvargasabreu/Projects/BanreservaSolution/Events/obj/Debug/net8.0/Events.AssemblyInfoInputs.cache
-/Users/dionisvargasabreu/Projects/BanreservaSolution/Events/obj/Debug/net8.0/Events.AssemblyInfo.cs
-/Users/dionisvargasabreu/Projects/BanreservaSolution/Events/obj/Debug/net8.0/Events.csproj.CoreCompileInputs.cache

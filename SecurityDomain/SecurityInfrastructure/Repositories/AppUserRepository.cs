@@ -16,11 +16,10 @@ namespace SecurityInfrastructure.Repositories
     public class AppUserRepository : BaseRepository<AppUser>, IAppUserRepository
     {
 
-        private JwtSettings _settings;
+        private JwtSettings _settings { get; }
 
         public AppUserRepository(SecurityDbContext context, JwtSettings settings) : base(context)
         {
-
             _settings = settings;
         }
 

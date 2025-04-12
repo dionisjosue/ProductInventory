@@ -1,7 +1,0 @@
-﻿@BanreservaSolution_HostAddress = http://localhost:5019
-
-GET {{BanreservaSolution_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
-

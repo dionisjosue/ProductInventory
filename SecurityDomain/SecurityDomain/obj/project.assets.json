@@ -854,8 +854,8 @@
     },
     "SharedItems/1.0.0": {
       "type": "project",
-      "path": "../../Events/SharedItems/SharedItems.csproj",
-      "msbuildProject": "../../Events/SharedItems/SharedItems.csproj"
+      "path": "../../SharedSolution/SharedItems/SharedItems.csproj",
+      "msbuildProject": "../../SharedSolution/SharedItems/SharedItems.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -870,11 +870,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dionisvargasabreu/Projects/BanreservaSolution/SecurityDomain/SecurityDomain/SecurityDomain.csproj",
+      "projectUniqueName": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SecurityDomain/SecurityDomain/SecurityDomain.csproj",
       "projectName": "SecurityDomain",
-      "projectPath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/SecurityDomain/SecurityDomain/SecurityDomain.csproj",
+      "projectPath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SecurityDomain/SecurityDomain/SecurityDomain.csproj",
       "packagesPath": "/Users/dionisvargasabreu/.nuget/packages/",
-      "outputPath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/SecurityDomain/SecurityDomain/obj/",
+      "outputPath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SecurityDomain/SecurityDomain/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dionisvargasabreu/.nuget/NuGet/NuGet.Config"
@@ -889,8 +889,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/dionisvargasabreu/Projects/BanreservaSolution/Events/SharedItems/SharedItems.csproj": {
-              "projectPath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/Events/SharedItems/SharedItems.csproj"
+            "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SharedSolution/SharedItems/SharedItems.csproj": {
+              "projectPath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SharedSolution/SharedItems/SharedItems.csproj"
             }
           }
         }

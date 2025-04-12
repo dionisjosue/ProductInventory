@@ -14,21 +14,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Events\SharedItems\SharedItems.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
-    <ProjectReference Include="..\..\banreservaTecnicalTest\banreservaTecnicalTest.Library\Solution.Domain.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
-    <ProjectReference Include="..\..\banreservaTecnicalTest\banreservaTecnicalTest.Infrastructure\Solution.Infrastructure.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
-    <ProjectReference Include="..\..\banreservaTecnicalTest\banreservaTecnicalTest.Infrastructure\Infrastructure.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
-    <ProjectReference Include="..\..\banreservaTecnicalTest\banreservaTecnicalTest.Library\DomainLayer.csproj">
-      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Remove="Controllers\" />
@@ -37,5 +22,16 @@
   <ItemGroup>
     <Folder Include="Controllers\" />
     <Folder Include="ModelDTO\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SharedSolution\Domain\DomainLayer.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\SharedSolution\Infrastructure\Infrastructure.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
+    <ProjectReference Include="..\SharedSolution\SharedItems\SharedItems.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 </Project>

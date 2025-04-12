@@ -1,0 +1,15 @@
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/bin/Debug/net8.0/Domain.deps.json
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/bin/Debug/net8.0/Domain.dll
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/bin/Debug/net8.0/Domain.pdb
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/bin/Debug/net8.0/SharedItems.dll
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/bin/Debug/net8.0/SharedItems.pdb
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/Domain.csproj.AssemblyReference.cache
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/Domain.csproj.CopyComplete
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/Domain.dll
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/refint/Domain.dll
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/Domain.pdb
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/ref/Domain.dll

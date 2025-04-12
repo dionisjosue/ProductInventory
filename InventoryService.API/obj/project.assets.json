@@ -1585,6 +1585,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "AutoMapper": "14.0.0",
           "SharedItems": "1.0.0"
         },
         "compile": {
@@ -4220,18 +4221,18 @@
     },
     "DomainLayer/1.0.0": {
       "type": "project",
-      "path": "../../banreservaTecnicalTest/banreservaTecnicalTest.Library/DomainLayer.csproj",
-      "msbuildProject": "../../banreservaTecnicalTest/banreservaTecnicalTest.Library/DomainLayer.csproj"
+      "path": "../SharedSolution/Domain/DomainLayer.csproj",
+      "msbuildProject": "../SharedSolution/Domain/DomainLayer.csproj"
     },
     "Infrastructure/1.0.0": {
       "type": "project",
-      "path": "../../banreservaTecnicalTest/banreservaTecnicalTest.Infrastructure/Infrastructure.csproj",
-      "msbuildProject": "../../banreservaTecnicalTest/banreservaTecnicalTest.Infrastructure/Infrastructure.csproj"
+      "path": "../SharedSolution/Infrastructure/Infrastructure.csproj",
+      "msbuildProject": "../SharedSolution/Infrastructure/Infrastructure.csproj"
     },
     "SharedItems/1.0.0": {
       "type": "project",
-      "path": "../Events/SharedItems/SharedItems.csproj",
-      "msbuildProject": "../Events/SharedItems/SharedItems.csproj"
+      "path": "../SharedSolution/SharedItems/SharedItems.csproj",
+      "msbuildProject": "../SharedSolution/SharedItems/SharedItems.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4248,11 +4249,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dionisvargasabreu/Projects/BanreservaSolution/InventoryService.API/InventoryService.API.csproj",
+      "projectUniqueName": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/InventoryService.API/InventoryService.API.csproj",
       "projectName": "InventoryService.API",
-      "projectPath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/InventoryService.API/InventoryService.API.csproj",
+      "projectPath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/InventoryService.API/InventoryService.API.csproj",
       "packagesPath": "/Users/dionisvargasabreu/.nuget/packages/",
-      "outputPath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/InventoryService.API/obj/",
+      "outputPath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/InventoryService.API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/dionisvargasabreu/.nuget/NuGet/NuGet.Config"
@@ -4267,14 +4268,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/dionisvargasabreu/Projects/BanreservaSolution/Events/SharedItems/SharedItems.csproj": {
-              "projectPath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/Events/SharedItems/SharedItems.csproj"
+            "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SharedSolution/Domain/DomainLayer.csproj": {
+              "projectPath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SharedSolution/Domain/DomainLayer.csproj"
             },
-            "/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Infrastructure/Infrastructure.csproj"
+            "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SharedSolution/Infrastructure/Infrastructure.csproj": {
+              "projectPath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SharedSolution/Infrastructure/Infrastructure.csproj"
             },
-            "/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/DomainLayer.csproj": {
-              "projectPath": "/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/DomainLayer.csproj"
+            "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SharedSolution/SharedItems/SharedItems.csproj": {
+              "projectPath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SharedSolution/SharedItems/SharedItems.csproj"
             }
           }
         }

@@ -33,7 +33,7 @@ builder.Services.AddScoped<IStockServiceCached, StockServiceCached>();
 var jwtSettings = builder.Configuration.GetSection("JwtSettings").Get<JwtSettings>();
 builder.Services.AddJwtAutheticationConfiguration(jwtSettings);
 
-builder.Services.AddHostedService<ProductEventConsumer>();
+//builder.Services.AddHostedService<ProductEventConsumer>();
 
 
 var app = builder.Build();

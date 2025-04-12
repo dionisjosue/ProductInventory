@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TOPwHPzSs6TBHH122J7dR30VaBtyQYUJbT9xlUv8jgoKtjGKFgO3bQGcrKaXBWzkkmF4zniW9XmQt4i/J8WVOg==",
+  "dgSpecHash": "WNVQENXrSNeo6MSYgrBQo/nDWVdYiODBCVqsa235mV5nS3Uz8Rw0GNYUvHLBQpfA8MArUc/PBZogpw/CD9z98w==",
   "success": true,
-  "projectFilePath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/InventoryService.API/InventoryService.API.csproj",
+  "projectFilePath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/InventoryService.API/InventoryService.API.csproj",
   "expectedPackageFiles": [
     "/Users/dionisvargasabreu/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/dionisvargasabreu/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",

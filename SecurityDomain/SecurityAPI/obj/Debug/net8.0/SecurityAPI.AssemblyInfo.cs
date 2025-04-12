@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SecurityAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+adf97274fabd5dbb4924a3b0507f9102edb15b3f")]
 [assembly: System.Reflection.AssemblyProductAttribute("SecurityAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SecurityAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

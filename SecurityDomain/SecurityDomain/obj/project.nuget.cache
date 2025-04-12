@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dXvGId/xvR5WRfT3xbZpcb3y6PqwwnerCIu/0jJwEaZbGQx2+J9o8rLh2do62aAIzXx6rG6dkkWf30zR8r3IXA==",
+  "dgSpecHash": "b4Dl6ObNZAkEWZj0p3QqQH3zn4RA5aPMgLEfMhkN0BVWywusgi+gu1XwHn2WB3jt8EJrqHjuz50mDcT8Igo02w==",
   "success": true,
-  "projectFilePath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/SecurityDomain/SecurityDomain/SecurityDomain.csproj",
+  "projectFilePath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SecurityDomain/SecurityDomain/SecurityDomain.csproj",
   "expectedPackageFiles": [
     "/Users/dionisvargasabreu/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/dionisvargasabreu/.nuget/packages/microsoft.aspnetcore.cryptography.internal/8.0.15/microsoft.aspnetcore.cryptography.internal.8.0.15.nupkg.sha512",

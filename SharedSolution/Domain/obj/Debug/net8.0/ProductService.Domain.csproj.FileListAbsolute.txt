@@ -1,0 +1,15 @@
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/bin/Debug/net8.0/ProductService.Domain.deps.json
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/bin/Debug/net8.0/ProductService.Domain.dll
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/bin/Debug/net8.0/ProductService.Domain.pdb
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/bin/Debug/net8.0/SharedItems.dll
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/bin/Debug/net8.0/SharedItems.pdb
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/ProductService.Domain.csproj.AssemblyReference.cache
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/ProductService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/ProductService.Domain.AssemblyInfoInputs.cache
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/ProductService.Domain.AssemblyInfo.cs
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/ProductService.Domain.csproj.CoreCompileInputs.cache
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/ProductService.Domain.csproj.CopyComplete
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/ProductService.Domain.dll
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/refint/ProductService.Domain.dll
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/ProductService.Domain.pdb
+/Users/dionisvargasabreu/Projects/banreservaTecnicalTest/banreservaTecnicalTest.Library/obj/Debug/net8.0/ref/ProductService.Domain.dll

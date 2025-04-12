@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "55863DHuU9/0GO5yW+gwcUX/+zVkbUMAyUQDk9inxnOfz+Aq982jMoVmfOr6lb6iZe5JW2/1WYfdkBW8+ocNqA==",
+  "dgSpecHash": "zq0abQEUHDG8j2RLd2cbHV3IYHt3PvTJSM9vWzAkGLsMsf/7pN94/fw5Ld1exi09mAec9ACJ5VSD+am9Ub70ow==",
   "success": true,
-  "projectFilePath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/SecurityDomain/SecurityInfrastructure/SecurityInfrastructure.csproj",
+  "projectFilePath": "/Users/dionisvargasabreu/Documents/DEVELOPER/WorkflowBackend/ProductInventory/SecurityDomain/SecurityInfrastructure/SecurityInfrastructure.csproj",
   "expectedPackageFiles": [
     "/Users/dionisvargasabreu/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
     "/Users/dionisvargasabreu/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",

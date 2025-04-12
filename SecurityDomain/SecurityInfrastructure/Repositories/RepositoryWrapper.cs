@@ -13,9 +13,10 @@ namespace SecurityInfrastructure.Repositories
 
         private JwtSettings _jwtSettings { get; set; }
 
-        public RepositoryWrapper()
+        public RepositoryWrapper(SecurityDbContext context,JwtSettings jwtSettings)
         {
-            //_jwtSettings = jwtSettings;
+            _jwtSettings = jwtSettings;
+            _context = context;
         }
 
         private IActionRepository _action;
@@ -90,17 +91,13 @@ namespace SecurityInfrastructure.Repositories
             {
                 if(_appUser == null)
                 {
-                    _appUser = new AppUserRepository(_context,null);
+                    _appUser = new AppUserRepository(_context, _jwtSettings);
                 }
                 return _appUser;
             }
         }
 
-        public RepositoryWrapper(SecurityDbContext context)
-        {
-            _context = context;
-        }
-
+   
       
         public void Save()
         {
