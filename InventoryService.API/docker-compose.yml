@@ -1,0 +1,41 @@
+﻿version: '3.8'
+
+services:
+  inventory.api:
+    image: inventoryservice:latest
+    build:
+      context: .
+      dockerfile: InventoryService.API/Dockerfile
+    ports:
+      - "5001:80"
+    environment:
+      - rateApiKey=40ef5d4c8e154b9a894ae3b8
+      - rateUrl=https://v6.exchangerate-api.com/v6/{APIKEY}/latest/{moneda}
+      - DatabaseConnection=Server=sqlserver;Database=banreservas;User Id=SA;Password=Dionis12;Persist Security Info=True;Integrated Security=false;Connection Timeout=60;MultipleActiveResultSets=true;Encrypt=false;TrustServerCertificate=true
+    depends_on:
+      - sqlserver
+      - rabbitmq
+
+  sqlserver:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: sqlserver
+    environment:
+      SA_PASSWORD: "Dionis12"
+      ACCEPT_EULA: "Y"
+    ports:
+      - "1433:1433"
+    volumes:
+      - sqlserver_data:/var/opt/mssql
+
+  rabbitmq:
+    image: rabbitmq:3-management
+    container_name: rabbitmq
+    ports:
+      - "5672:5672"
+      - "15672:15672"
+    environment:
+      RABBITMQ_DEFAULT_USER: user
+      RABBITMQ_DEFAULT_PASS: password
+
+volumes:
+  sqlserver_data:

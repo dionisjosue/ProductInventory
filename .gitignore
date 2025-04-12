@@ -1,0 +1,95 @@
+﻿
+## .NET Core / .NET 5+ / .NET Framework
+# Build Folders
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+TestResults/
+out/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.swp
+*.vspscc
+*.vssscc
+
+# Build outputs
+*.dll
+*.exe
+*.pdb
+*.cache
+*.log
+*.msi
+*.appx
+*.nupkg
+*.snupkg
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# Rider
+.idea/
+
+# Visual Studio
+.vs/
+*.dbmdl
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.assets.json
+PackageLock.json
+*.deps.json
+
+# DotNet CLI
+artifacts/
+
+# ASP.NET
+wwwroot/dist/
+wwwroot/node_modules/
+
+# Logs
+*.log
+logs/
+
+# Coverage Reports
+coverage/
+*.coverage
+*.coveragexml
+*.lcov
+
+# Temporary Files
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.rej
+
+# Others
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.resharper
+*.dotCover
+*.DotSettings.user
+
+# Secrets or config overrides
+appsettings.*.local.json
+secrets.json
+
+# Docker artifacts
+**/*.dockerfile
+docker-compose.override.yml
+docker-compose.*.yml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
