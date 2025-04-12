@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ypnDTJs9tuKyLbrkCc03K9QK2RAYKTRhvWAhoZu4l3X6Koput22EYx71DIn661Pp5gQQnD9ZDfHbChBGuUdJUQ==",
+  "success": true,
+  "projectFilePath": "/Users/dionisvargasabreu/Projects/BanreservaSolution/Events/SharedItems/SharedItems.csproj",
+  "expectedPackageFiles": [
+    "/Users/dionisvargasabreu/.nuget/packages/automapper/14.0.0/automapper.14.0.0.nupkg.sha512",
+    "/Users/dionisvargasabreu/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "/Users/dionisvargasabreu/.nuget/packages/microsoft.extensions.options/8.0.0/microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "/Users/dionisvargasabreu/.nuget/packages/microsoft.extensions.primitives/8.0.0/microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

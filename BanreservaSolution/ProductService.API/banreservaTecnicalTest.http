@@ -1,0 +1,7 @@
+﻿@banreservaTecnicalTest_HostAddress = http://localhost:5034
+
+GET {{banreservaTecnicalTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
